@@ -1,0 +1,66 @@
+.szepites
+{
+    width: 90%;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+#kereses{
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 24px;
+}
+#bemenet{
+    width: 60%;
+}
+#kimenet{
+    font-size: 18px;
+    background-color: lightyellow;
+    padding: 10px auto;
+}
+#kimenet h1{
+    font-size: 60px;
+}
+
+#kimenet_collapse{
+    font-size: 18px;
+    padding: 10px auto;
+}
+#kimenet_collapse h1{
+    font-size: 60px;
+}
+#kimenet_collapse button{
+    width: 50%;
+    height: 60px;
+    font-weight: 400;
+    font-size: 30px;
+    background-color: lightskyblue;
+    border-radius: 40px;
+    margin-bottom: 20px;
+}
+#kimenet_collapse button:hover{
+    background-color: gold;
+}
+#kimenet_collapse button:active{
+    background-color: goldenrod;
+}
+
+#kimenet_nev{
+    font-size: 20px;
+}
+#kimenet_nev table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#kimenet_nev td,th{
+    padding: 10px 20px;
+    background-color: rgb(190, 220, 170);
+}
+#kimenet_nev th{
+    font-size: 30px;
+    background-color: rgb(165, 220, 140);
+}
